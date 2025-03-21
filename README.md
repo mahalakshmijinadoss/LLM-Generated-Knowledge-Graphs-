@@ -1,1 +1,1 @@
-# LLM-Generated-Knowledge-Graphs-
+# LLM-Generated Knowledge Graphs
